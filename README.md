@@ -4,7 +4,6 @@ dockerをwindowsおよびmacosでそのまま走らせると環境依存でう�
 + vagrant
 + dockerのインストール
 + docker-composeのインストール
-+ laradockからtestappを使用できるようにする(別途管理)
 
 ## Vagrant設定(Vagrantfile)
 `config.vm.network "public_network"`によってほかのデバイスからもプレビューできるように動的にipを割り当てる。  
